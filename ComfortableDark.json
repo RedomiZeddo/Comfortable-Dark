@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "~$ SudoHCT LaxoGold#0001",
+        "version": "1.0.0",
+        "name": "Comfortable Dark"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -15198184,
+        "background_secondary": -13948117,
+        "accent": -13553359
+    },
+    "colors": {
+        "highlighted_text_material_dark": -8355712,
+        "link": -5000269
+    },
+    "drawable_tints": {}
+}
