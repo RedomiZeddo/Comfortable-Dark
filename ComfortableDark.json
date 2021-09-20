@@ -2,18 +2,20 @@
     "manifest": {
         "author": "~$ SudoHCT LaxoGold#0001",
         "version": "1.0.0",
-        "name": "Comfortable Dark"
+        "name": "Comfortable Dark",
+        "updater": "https:\/\/raw.githubusercontent.com\/RedomiZeddo\/Comfortable-Dark\/main\/ComfortableDark.json"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
-        "background": -15198184,
-        "background_secondary": -13948117,
-        "accent": -13553359
+        "background": -15395563,
+        "background_secondary": -14869219,
+        "accent": -9539986
     },
     "colors": {
         "highlighted_text_material_dark": -8355712,
-        "link": -5000269
+        "link": -5000269,
+        "abc_color_highlight_material": -8355712
     },
     "drawable_tints": {}
 }
